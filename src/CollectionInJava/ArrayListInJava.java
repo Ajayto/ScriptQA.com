@@ -10,6 +10,8 @@ public class ArrayListInJava {
 		al.add(10);
 		al.add(20);
 		al.add(100);
+		al.add("java ");
+		al.add("git");
 		al.add(20.23f);
 		al.add(null);
 		al.add(10);
