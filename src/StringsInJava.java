@@ -6,6 +6,7 @@ public class StringsInJava {
 		//StringsInJava sj= new StringsInJava();
 		String s=" ";  //
 		String s1="hello Java"; 
+		String s10="ScriptQA"; 
 		
 		System.out.println(s.isEmpty());
 		System.out.println(s.isBlank());

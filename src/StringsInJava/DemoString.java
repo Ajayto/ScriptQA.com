@@ -19,6 +19,7 @@ public class DemoString {
 	 String s2= new String("Hello java");
 	 String s3= new String(sb);
 	 String s4= new String(sb3);
+	 String s10= new String("ScriptQA");
 	 
 	 char ch[]= {'a','b','c','d'};
 	 String s5= new String(ch);
